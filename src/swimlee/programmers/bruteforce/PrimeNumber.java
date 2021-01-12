@@ -49,7 +49,7 @@ public class PrimeNumber {
             check[i] = true;
             tmp = s + number[i];
             permutation(cnt, num+1, tmp);
-            check[i] = false;
+            check[i] = false; // 백트래킹의 개념
         }
 
     }
