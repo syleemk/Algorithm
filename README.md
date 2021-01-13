@@ -18,7 +18,8 @@
 [DP]
 - N으로 표현
 - 정수 삼각형
+- 등교길
 
 ### 리트코드
  
-- 239_Sliding Window Maximum
+- 239_Sliding Window Maximum (우선순위 큐)
