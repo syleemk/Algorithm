@@ -3,6 +3,7 @@ package swimlee.boj.sds;
 import java.util.Scanner;
 
 /**
+ * N-Queen
  * 자바 2차원 배열의 깊은 복사!! -> 메모리 시간초과 ㅋㅋㅋㅋ
  * 굳이 2차원 배열 전체를 복사할 필요 없음!!
  */
