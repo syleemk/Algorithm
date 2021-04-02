@@ -1,4 +1,4 @@
-package swimlee.programmers.kakao2019winterintern;
+package swimlee.programmers.KakaoIntern;
 
 import java.util.Stack;
 

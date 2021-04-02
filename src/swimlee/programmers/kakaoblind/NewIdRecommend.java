@@ -1,4 +1,4 @@
-package swimlee.programmers.kakaoblind2021;
+package swimlee.programmers.kakaoblind;
 
 /**
  * 정규표현식 기본 연습

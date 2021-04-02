@@ -1,4 +1,4 @@
-package swimlee.programmers.Kakao2020Intern;
+package swimlee.programmers.KakaoIntern;
 
 /**
  * 구현 문제 좋음 (level 1 인데도 카카오는 카카오다)
