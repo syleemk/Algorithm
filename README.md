@@ -56,6 +56,7 @@
 
 [2018 카카오 블라인드 채용]
 - [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+- [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
 
 [2021 카카오 블라인드 채용]
 - 신규 아이디 추천
