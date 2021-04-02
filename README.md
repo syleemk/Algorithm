@@ -46,6 +46,7 @@
 - 두 개 뽑아서 더하기
 - 3진법 뒤집기
 - 가운데 글자 가져오기
+- [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 
 [카카오 2019 겨울 인턴십]
 - 크레인 인형뽑기 게임
