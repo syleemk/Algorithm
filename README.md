@@ -67,6 +67,7 @@
 
 [연습문제]
 - 2016년
+- [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
 
 [summer/winter coding]
 - [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
