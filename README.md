@@ -68,6 +68,9 @@
 [연습문제]
 - 2016년
 
+[summer/winter coding]
+- [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
+
 ### 리트코드
  
 - 239_Sliding Window Maximum (우선순위 큐)
