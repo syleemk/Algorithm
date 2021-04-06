@@ -61,6 +61,7 @@
 [2021 카카오 블라인드 채용]
 - 신규 아이디 추천
 - [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
+- [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 
 [찾아라 프로그래밍 마에스터]
 - [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
