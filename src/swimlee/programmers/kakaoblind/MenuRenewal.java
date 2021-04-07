@@ -4,6 +4,7 @@ import java.util.*;
 
 /**
  * 조합 문제!! + compareTo method로 number type 비교
+ * 다시풀기 (답봄)
  */
 
 public class MenuRenewal {

@@ -63,6 +63,7 @@
 - [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
 - [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 - [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
+- [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
 
 [찾아라 프로그래밍 마에스터]
 - [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
