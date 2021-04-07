@@ -50,6 +50,7 @@
 
 [카카오 2019 겨울 인턴십]
 - 크레인 인형뽑기 게임
+- [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
 
 [2020 카카오 인턴십]
 - [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
