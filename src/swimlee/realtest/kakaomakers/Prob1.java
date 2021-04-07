@@ -1,4 +1,4 @@
-package swimlee.realtest.kakao;
+package swimlee.realtest.kakaomakers;
 
 import java.util.HashMap;
 import java.util.Map;

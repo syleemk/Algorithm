@@ -65,6 +65,9 @@
 - [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
 
+[2017 카카오 코드 본선]
+- [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)
+
 [찾아라 프로그래밍 마에스터]
 - [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
 

@@ -1,4 +1,4 @@
-package swimlee.realtest.kakao;
+package swimlee.realtest.kakaomakers;
 
 import java.util.ArrayList;
 import java.util.List;
