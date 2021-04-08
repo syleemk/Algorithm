@@ -48,6 +48,7 @@
 - 가운데 글자 가져오기
 - [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)
+- [이진변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)
 
 [카카오 2019 겨울 인턴십]
 - 크레인 인형뽑기 게임
