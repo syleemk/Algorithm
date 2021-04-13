@@ -65,6 +65,7 @@
 - [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 - [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
 - [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
+- [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
 
 [2021 카카오 블라인드 채용]
 - 신규 아이디 추천
