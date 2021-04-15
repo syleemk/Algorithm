@@ -27,6 +27,8 @@ public class RecentSong {
             LocalTime startTime = LocalTime.parse(split[0]);
             LocalTime endTime = LocalTime.parse(split[1]);
 
+            //근데 어차피 분단위 차이 계산이니까
+            //시간에 60곱해서 더한 후 차이 계산하면 됨
             int runningTime = (int) ChronoUnit.MINUTES.between(startTime, endTime);
 
             String title = split[2];
