@@ -113,3 +113,4 @@
 ### 백준 삼성기출
 - [16236 아기상어](https://www.acmicpc.net/problem/16236)
 - [19236 청소년상어](https://www.acmicpc.net/problem/19236)
+- [19237 어른상어](https://www.acmicpc.net/problem/19237)
