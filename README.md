@@ -115,3 +115,4 @@
 - [19236 청소년상어](https://www.acmicpc.net/problem/19236)
 - [19237 어른상어](https://www.acmicpc.net/problem/19237)
 - [20056 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)
+- [20057 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)
