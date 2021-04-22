@@ -114,3 +114,4 @@
 - [16236 아기상어](https://www.acmicpc.net/problem/16236)
 - [19236 청소년상어](https://www.acmicpc.net/problem/19236)
 - [19237 어른상어](https://www.acmicpc.net/problem/19237)
+- [20056 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)
