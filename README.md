@@ -90,6 +90,7 @@
 [2017 카카오 코드 본선]
 - [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)
 - [GPS](https://programmers.co.kr/learn/courses/30/lessons/1837)
+- [리틀 프렌즈 사천성](https://programmers.co.kr/learn/courses/30/lessons/1836)
 
 [찾아라 프로그래밍 마에스터]
 - [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
