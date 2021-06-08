@@ -65,6 +65,7 @@
 
 [2020 카카오 인턴십]
 - [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
+- [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)
 
 [2018 카카오 블라인드 채용]
 - [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
