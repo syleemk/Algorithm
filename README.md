@@ -92,6 +92,9 @@
 - [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
 - [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)
 
+[2017 카카오 코드 예선]
+-[보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832)
+
 [2017 카카오 코드 본선]
 - [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)
 - [GPS](https://programmers.co.kr/learn/courses/30/lessons/1837)
