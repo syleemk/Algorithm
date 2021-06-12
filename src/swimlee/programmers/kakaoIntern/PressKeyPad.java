@@ -1,4 +1,4 @@
-package swimlee.programmers.KakaoIntern;
+package swimlee.programmers.kakaoIntern;
 
 /**
  * 구현 문제 좋음 (level 1 인데도 카카오는 카카오다)

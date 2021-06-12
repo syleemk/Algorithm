@@ -1,4 +1,4 @@
-package swimlee.programmers.KakaoIntern;
+package swimlee.programmers.kakaoIntern;
 
 import java.util.ArrayList;
 import java.util.Collections;

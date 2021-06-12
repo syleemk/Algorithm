@@ -1,4 +1,4 @@
-package swimlee.programmers.KakaoIntern;
+package swimlee.programmers.kakaoIntern;
 
 /**
  * dfs + dp 로 풀게되면 여러 경우에 대한 방향고려가 안된다.

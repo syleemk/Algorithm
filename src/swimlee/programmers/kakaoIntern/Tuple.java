@@ -1,4 +1,4 @@
-package swimlee.programmers.KakaoIntern;
+package swimlee.programmers.kakaoIntern;
 
 import java.util.*;
 import java.util.regex.Matcher;
