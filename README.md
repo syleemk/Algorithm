@@ -63,6 +63,7 @@
 - [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
 - [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
 - [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)
+- [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)
 
 [2020 카카오 인턴십]
 - [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
