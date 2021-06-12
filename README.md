@@ -82,6 +82,9 @@
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
 - [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)
 
+[20179 카카오 블라인드 채용]
+- [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)
+
 [2020 카카오 블라인드 채용]
 - [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
 
