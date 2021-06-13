@@ -85,6 +85,7 @@
 [2019 카카오 블라인드 채용]
 - [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)
 - [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)
+- [매칭 점수](https://programmers.co.kr/learn/courses/30/lessons/42893)
 
 [2020 카카오 블라인드 채용]
 - [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
