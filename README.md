@@ -89,6 +89,7 @@
 
 [2020 카카오 블라인드 채용]
 - [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+- [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062)
 
 [2021 카카오 블라인드 채용]
 - 신규 아이디 추천
