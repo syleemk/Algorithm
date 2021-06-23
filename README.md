@@ -101,6 +101,7 @@
 
 [2017 카카오 코드 예선]
 -[보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832)
+-[브라이언의 고민 - 미해결](https://programmers.co.kr/learn/courses/30/lessons/1830)
 
 [2017 카카오 코드 본선]
 - [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)
