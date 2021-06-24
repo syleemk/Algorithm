@@ -49,13 +49,16 @@
 - [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
 - [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)
 
-[월간코드챌린지 시즌1]
+[월간 코드 챌린지 시즌1]
 - 두 개 뽑아서 더하기
 - 3진법 뒤집기
 - 가운데 글자 가져오기
 - [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)
 - [이진변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)
+
+[월간 코드 챌린지 시즌2]
+- [모두 0으로 만들기 - 다시 해보기](https://programmers.co.kr/learn/courses/30/lessons/76503)
 
 [카카오 2019 겨울 인턴십]
 - 크레인 인형뽑기 게임
