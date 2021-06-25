@@ -124,6 +124,7 @@
 - [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
 - [배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
 - [기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979)
+- [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987)
 
 [2021 데브매칭: 웹 백엔드]
 - [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)
