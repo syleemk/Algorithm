@@ -2,6 +2,18 @@ package swimlee.realtest.deliveryhero;
 
 import java.util.HashMap;
 
+/**
+ * 투포인터 문제!
+ * 완탐으로는 시간초과나는 경우 사용!
+ * - 투포인터
+ * - 이분탐색
+ * - dp
+ * - 그리디
+ *
+ * 이 문제는 투포인터의 한 유형인 슬라이딩 윈도우와도 비슷
+ * 슬라이딩 윈도우는 그 크기가 변하지 않는다는 특징! (즉 두 포인터 간격이 유지된다)
+ */
+
 public class Prob3 {
 
     public static void main(String[] args) {

@@ -101,6 +101,7 @@
 - [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
 - [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)
+- [광고 삽입 - 다시해보기](https://programmers.co.kr/learn/courses/30/lessons/72414)
 
 [2017 카카오 코드 예선]
 -[보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832)
