@@ -57,7 +57,8 @@
 - [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)
 - [이진변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)
 
-[월간 코드 챌린지 시즌2]
+[월간 코드 챌린지]
+- [풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)
 - [모두 0으로 만들기 - 다시 해보기](https://programmers.co.kr/learn/courses/30/lessons/76503)
 
 [카카오 2019 겨울 인턴십]
