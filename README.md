@@ -127,6 +127,7 @@
 - [배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
 - [기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979)
 - [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987)
+- [스티커 모으기(2)](https://programmers.co.kr/learn/courses/30/lessons/12971)
 
 [2021 데브매칭: 웹 백엔드]
 - [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)
