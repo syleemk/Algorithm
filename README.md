@@ -60,6 +60,7 @@
 [월간 코드 챌린지]
 - [풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)
 - [모두 0으로 만들기 - 다시 해보기](https://programmers.co.kr/learn/courses/30/lessons/76503)
+- [스타 수열](https://programmers.co.kr/learn/courses/30/lessons/70130)
 
 [카카오 2019 겨울 인턴십]
 - 크레인 인형뽑기 게임
